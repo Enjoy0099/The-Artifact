@@ -2,6 +2,11 @@
 
 # About
 
+## Button
+> Use "SPACE OR ENTER" KEY to grab fruits and feed artifacts
+
+> Use "Mouse LEFT Click" to eliminate the wolves
+
 
 # images
 > ![20220921_235020](https://user-images.githubusercontent.com/97245841/191587781-71924f33-b906-4dec-a429-1621b2d05008.jpg)
