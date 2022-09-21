@@ -2,6 +2,16 @@
 
 # About
 
+This is a 2d survival time base game. This is time base game which implies if you survive a given time then you will win the game.
+
+In this game, you move around and fix artifacts. There are three types of brushes that produce fruit. Depending on the color type of the bushes, they produce different numbers of fruits.
+
+Also, you have a fixed-size backpack in which you can collect a certain amount of fruits. You can heal artifacts based on the number of fruits you've collected.
+
+In this game, you can see that there are two types of enemy wolves. One which dries the bushes and the other which damages the artifact. So you have to eliminate the wolf to save the artifacts and bushes. And most importantly to win the game.
+
+So let's see how long you can survive and win in this game.
+
 ## Button
 > Use "SPACE OR ENTER" KEY to grab fruits and feed artifacts
 
